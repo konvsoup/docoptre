@@ -1,2 +1,2 @@
 # docoptre
-Wanna be another docopt, work in progress
+work in progress
