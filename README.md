@@ -1,4 +1,4 @@
 # docoptre
 work in progress
 
-https://travis-ci.org/konvsoup/docoptre.svg?branch=master
+[![Build Status](https://travis-ci.org/konvsoup/docoptre.svg?branch=master)](https://travis-ci.org/konvsoup/docoptre)
